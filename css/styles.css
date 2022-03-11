@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: #5D8BF4;
+  font-family: 'Press Start 2P', cursive;
+}
+
+h2 {
+  color: #5D8BF4;
+  font-family: 'Lemonada', cursive;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Genos', sans-serif;
+}
+
+.top {
+  background-color: #DFF6FF;
+  padding: 80px;
+}
+
+.middle {
+  background-color: #EFFFFD;
+}
+
+.bottom {
+  background-color: #EFFFFD;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 80px auto 80px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.coding {
+  width: 600px;
+}
+
+.avatar {
+  padding: 50px;
+  width: 150px;
+}
+
+.code_gif {
+  width: 35%;
+  float: left;
+  margin-right: 30px;
+}
+
+.brownie {
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
